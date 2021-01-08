@@ -1,0 +1,10 @@
+name: default
+permissions:
+- essentials.warps.chimus
+- essentials.warps.lobby
+- Essentials.tp
+- essentials.build
+- mobarena.use.join
+- essentials.signs.use.warp
+- essentials.sethome
+- essentials.home

@@ -1,0 +1,7 @@
+uuid: 23db5160-5fc3-4fd5-bd02-62dfe9e02f2c
+name: anderdu
+primary-group: admin
+permissions:
+- luckperms.*
+parents:
+- admin

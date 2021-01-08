@@ -1,0 +1,30 @@
+# LuckPerms UUID lookup cache
+115c6132-c444-316a-af54-87ae7de996d3:Revanada7
+52b77f37-3aa1-3cad-beae-587c732d1933:Pollondu
+3b7bef18-647b-379a-b14d-ec8c759c5c9f:B1D4UXD
+23f46d05-f2d8-3e20-9e6e-8f8e1ec3b36b:chueca
+5725e091-4c17-37a1-98d9-baa4fb0f28b1:Sharpy
+947bdec2-da24-35ae-87ea-6c03ae231c7a:jondu
+bc3ceb93-8441-33ab-a38c-30d49996784f:PatataXXL
+4470eddf-5a0e-343d-b2aa-b74097a27311:win_13
+80ffda33-1cba-3ff4-8cae-cb510773bf82:CapSoviet
+59bb008c-9b59-3c3e-b08c-153854d4453e:_goobs
+76101929-a26c-33d7-8db9-e7a84807881a:anderduran
+ca6dd4f6-0c94-3855-a161-2e15474fed6e:cacholechuga
+b767a71c-3728-3a5d-9d45-9c46e6574d89:3lsg
+8983cb0d-1d2c-3b40-8aae-4e6e1e253c14:Danel6446
+6337f17e-508b-3814-8b4b-2536fb4932b7:usuario
+2fdfb8be-8f3f-3aa6-bbf1-9c79273cb31a:Arnaldo Otegi
+939c8e37-4a3a-3738-96ca-6ccffac26d76:kerubin94
+adcc9419-3ce0-31d6-a17f-a12918b7151b:ander424
+dd35eae2-c981-3cb9-bf78-901b2270cce5:hez de mono
+a05d05aa-2172-3225-baf9-cdf5b871e606:Zunder00
+68476f77-d13a-36b2-a434-053a096948bd:galdermen09
+a6ca49b5-c314-37b0-b6b7-66da6e9a5d4f:igor
+7723dce7-cce1-37b3-beeb-8f6fcc0462b3:js745
+716aa1b0-d8bd-3371-9076-23875baca4a7:nuevo
+d54ec265-edea-3632-99c6-f7726b63864a:EZgaymer
+c60ab7fe-475f-3afa-a2b4-10ac039d64e4:eneko5445
+49e7876c-7ff5-3275-b663-0ed18e1a08d1:joongoo29
+fedf2b50-15ff-3af4-bbd7-53f79ef508a7:ron1n47
+5daaae2f-eb94-37f6-aabf-54f97ec2bcde:anderdu

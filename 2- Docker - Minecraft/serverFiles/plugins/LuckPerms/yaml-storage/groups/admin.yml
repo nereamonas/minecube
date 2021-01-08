@@ -1,0 +1,29 @@
+name: admin
+permissions:
+- invsee.*
+- openinv.*
+- troll.*
+- OpenInv.openinv
+- OpenInv.openself
+- essentials.gamemode.all
+- essentials.tp
+- essentials.fly
+- essentials.time
+- essentials.time.set
+- essentials.gamemode
+- essentials.gamemode.survival
+- essentials.gamemode.creative 
+- bukkit.command.time
+- bukkit.command.time.add
+- bukkit.command.time.set
+- troll.chat
+- troll.join
+- troll.leave
+- cursed.plugin
+- cursed.parkour
+parents:
+- default
+- vip
+prefixes:
+- '&b&lADMIN ':
+    priority: 1
