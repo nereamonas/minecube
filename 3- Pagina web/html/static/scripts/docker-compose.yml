@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+  n4036:
+    image: 'minecube/minecube:latest'
+    container_name: n4036
+    ports:
+      - "4036:25565"
+    volumes:
+      - n4036:/serverFiles/exect
+volumes:
+  n4036:
+    external: False

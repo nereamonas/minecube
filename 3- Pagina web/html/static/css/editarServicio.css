@@ -1,0 +1,71 @@
+body{
+    background: url(../img/fondoCubosBlancos.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+.titulo{
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: -40px;
+}
+
+.main-section{
+    margin:0 auto;
+    margin-top:25%;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.modal-content{
+    background-color: #ffffff;
+    opacity: .95;
+    padding: 0 50px;
+    box-shadow: 0px 0px 3px #848484;
+}
+
+
+.control-label{
+    font-weight: bold;
+}
+
+.slidecontainer {
+  width: 100%;
+}
+
+/* The slider itself */
+.slider {
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  width: 100%; /* Full-width */
+  height: 7px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 15px; /* Set a specific slider handle width */
+  height: 15px; /* Slider handle height */
+  background: #33b5ff; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  width: 15px; /* Set a specific slider handle width */
+  height: 15px; /* Slider handle height */
+  background: #33b5ff; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
