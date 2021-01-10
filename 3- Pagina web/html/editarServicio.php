@@ -57,11 +57,7 @@ if (isset($_GET['idServicio'])&&isset($_SESSION['erabiltzaile'])){
 
     die(header("location:editarServicio.php?idServicio=".$_GET['idServicio']."&editado=true"));
    
-//NO VA LA REDIRECCION --> PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/editarServicio.php:123) in /var/www/html/editarServicio.php on line 198, referer: http://localhost/editarServicio.php
-  #$uneko_zerbitzaria  = $_SERVER['HTTP_HOST'];
-  #$uneko_karpeta   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
-  #header ("Location: http://$uneko_zerbitzaria$uneko_karpeta/misServicios.php");
-  #exit();
+
   }
 
 ?>
